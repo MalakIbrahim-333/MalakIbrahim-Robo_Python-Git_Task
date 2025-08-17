@@ -7,7 +7,7 @@
 - **D** → Turn Right  
 - **Q** → Stop and Exit  
 
-## Essential Libraries 
+## Essential Libraries + Pins
 - Raspberry Pi with [RPi.GPIO](https://pypi.org/project/RPi.GPIO/)  
 - [keyboard](https://pypi.org/project/keyboard/) Python library  
 - Motor driver circuit connected to GPIO pins:  
